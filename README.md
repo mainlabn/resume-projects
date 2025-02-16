@@ -4,8 +4,7 @@
 
 ## 📂 Структура репозитория  
 🔹 [🏡 Исследование объявлений о продаже квартир (Research-on-apartment-sales)](https://github.com/mainlabn/resume-projects/tree/main/Research-on-apartment-sales)  
-🔹 [🎓 Анализ связи образовательного опыта и рекомендаций (education-referral-analysis)](https://github.com/mainlabn/resume-projects/tree/main/education-referral-analysis)  
-)  
+🔹 [🎓 Анализ связи образовательного опыта и рекомендаций (education-referral-analysis)](https://github.com/mainlabn/resume-projects/tree/main/education-referral-analysis)   
 🔹 [🌸 Анализ сообществ VK для рекламы (vk-ads-analysis)](https://github.com/mainlabn/resume-projects/tree/main/vk_ads_analysis)
 
 ## 🚀 Описание проектов  
