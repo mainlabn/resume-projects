@@ -50,6 +50,6 @@
 
 
 ## 📬 Контакты  
-✉ [LinkedIn](https://www.linkedin.com/in/твой-профиль) | 🐱 [GitHub](https://github.com/твой-юзернейм)  
+✉ [Email](ml@markarzhanovsky.ru) | 🐱 [GitHub](https://github.com/mainlab)  
 
 ---
