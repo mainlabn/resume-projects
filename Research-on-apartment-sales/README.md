@@ -49,6 +49,7 @@
 ## 🚀 Как запустить  
 1. 📂 Открыть Jupyter Notebook
 
-📬 Контакты
+## 📬 Контакты  
+✉ [Email](mailto:ml@markarzhanovsky.ru) | 🐱 [GitHub](https://github.com/mainlabn)
 
-✉ Email | 🐱 GitHub
+---
