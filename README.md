@@ -4,7 +4,9 @@
 
 ## 📂 Структура репозитория  
 🔹 [🏡 Исследование объявлений о продаже квартир (Research-on-apartment-sales)](https://github.com/mainlabn/resume-projects/tree/main/Research-on-apartment-sales)  
-🔹 [🎓 Анализ связи образовательного опыта и рекомендаций (Education-referral-analysis)](https://github.com/mainlabn/resume-projects/tree/main/education-referral-analysis)  
+🔹 [🎓 Анализ связи образовательного опыта и рекомендаций (education-referral-analysis)](https://github.com/mainlabn/resume-projects/tree/main/education-referral-analysis)  
+)  
+🔹 [🌸 Анализ сообществ VK для рекламы (vk-ads-analysis)](https://github.com/mainlabn/resume-projects/tree/main/vk_ads_analysis)
 
 ## 🚀 Описание проектов  
 ### 🏡 Исследование объявлений о продаже квартир  
@@ -16,6 +18,11 @@
 Исследование, как учебный процесс влияет на распространение промокодов среди студентов.  
 🔹 **Инструменты:** SQL, Yandex DataLens  
 🔹 **[Подробнее](https://github.com/mainlabn/resume-projects/tree/main/education-referral-analysis)**  
+
+### 🌸 Анализ сообществ VK для рекламы
+Сбор и анализ данных о сообществах ВКонтакте с целью поиска наиболее подходящих площадок для размещения рекламы цветочного бизнеса.  
+🔹 **Инструменты:** Python, VK API, Requests, Pandas  
+🔹 **[Подробнее](https://github.com/mainlabn/resume-projects/tree/main/vk_ads_analysis)**
 
 ## 🛠 Используемые технологии  
 ![Python](https://img.shields.io/badge/Python-3.9-blue)  
