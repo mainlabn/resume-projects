@@ -50,6 +50,6 @@
 
 
 ## 📬 Контакты  
-✉ [Email](mailto:ml@markarzhanovsky.ru) | 🐱 [GitHub](https://github.com/mainlab)
+✉ [Email](mailto:ml@markarzhanovsky.ru) | 🐱 [GitHub](https://github.com/mainlabn)
 
 ---
