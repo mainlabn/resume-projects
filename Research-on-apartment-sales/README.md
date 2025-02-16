@@ -34,8 +34,14 @@
 ## 📂 Структура проекта
 
 📂 real_estate_analysis
+
+
 │── 📄 Real_Estate_project.ipynb # Исследовательский анализ
+
+
 │── 📂 assets/ # Графики и визуализации
+
+
 │── 📄 README.md # Описание проекта
 
 
